@@ -1,0 +1,35 @@
+#site-container {
+    max-width: 1200px;
+    margin: auto;
+}
+
+#navbar-inner {
+    max-width: 1200px;
+    margin: auto;
+}
+
+#navbar-inner label {
+    color: white;
+    font-weight: inherit !important;
+}
+
+.centered-table {
+    padding: 30px 0 0 0;
+    max-width: 70%;
+}
+
+.form-box {
+    padding: 20px !important;
+    margin: 20px 0 40px 20px !important;
+    width: 47%;
+    float: left;
+}
+
+.form-box__fullwidth {
+    padding: 20px !important;
+    margin: 20px 0 40px 20px !important;
+}
+
+.rem-button {
+    color: red
+}
